@@ -22,7 +22,7 @@ I'm Rajesh, A Automation Engineer, and also a series freak :stuck_out_tongue:.
  - Java :heart:
  
  ## 📫 How to reach me :coffee:
- -[LinkedIn](https://www.linkedin.com/in/rajesh-kumar-205899148/)
+ - [LinkedIn](https://www.linkedin.com/in/rajesh-kumar-205899148/)
 
 <!--
 **rajeshkumarrobert/rajeshkumarrobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
