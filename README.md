@@ -12,16 +12,18 @@
 
 
 ## About Me
-I'm Rajesh, A Automation Engineer, and also a series freak :stuck_out_tongue:. 
+Hi All Rajesh here, A Automation Engineer, and emerging rustacean stuck_out_tongue:. 
 
-- 🔭 I’m currently working on Indium Software
-- 🌱 I’m currently learning Cucumber
-- ⚡ I'm working as a game Tester 
+- 🔭 I’m currently working on Cognizant Technology Solutions
+- 🌱 I’m currently learning RUST
+- ⚡ I'm working as a Automation Test Engineer
 - 🗨️ Good at making automated Test Scripts
+- 🤔 To take a part in the open source project once stable with language
 
 ## Things I am passionate about
  - Selenium
  - Java :heart:
+ - RUST 🧠
  
  ## 📫 How to reach me :coffee:
  - [LinkedIn](https://www.linkedin.com/in/rajesh-kumar-205899148/)
