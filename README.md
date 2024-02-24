@@ -2,10 +2,22 @@
 
 ![](https://komarev.com/ghpvc/?username=rajeshkumarrobertS&color=green)
 
-![](https://github.com/rajeshkumarrobert/rajeshkumarrobert/blob/main/Assets/Selenium.PNG)
 
-![ Rajesh's github stats](https://github-readme-stats.vercel.app/api?username=rajeshkumarrobert&count_private=true&show_icons=true&theme=vue&hide_border=true&show_owner=true&count_private=true) 
-![Rajesh's Coding stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkumarrobert)
+
+<a href="https://github.com/rajeshkumarrobert">
+   <img src="https://github.com/rajeshkumarrobert/rajeshkumarrobert/blob/main/Assets/Selenium.PNG" align="left" width="50%"/>
+</a>
+<a href="https://github.com/rajeshkumarrobert">
+   <img src="https://github.com/rajeshkumarrobert/rajeshkumarrobert/blob/main/Assets/Rustlogo.gif" align="right" width="50%"/>
+</a>
+
+<!-- 
+![](https://github.com/rajeshkumarrobert/rajeshkumarrobert/blob/main/Assets/Selenium.PNG)
+![](https://github.com/rajeshkumarrobert/rajeshkumarrobert/blob/main/Assets/Rustlogo.gif) -->
+
+![ Rajesh's github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajeshkumarrobert&theme=dark) 
+<br />
+![ Rajesh's Coding stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rajeshkumarrobert&layout=donut)
 
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seshanthS&hide=shaderlab,c#,ASP)
@@ -27,7 +39,8 @@ Hi All Rajesh here, A Automation Engineer, and emerging rustacean stuck_out_tong
  - RUST 🧠
  
  ## 📫 How to reach me :coffee:
- - [LinkedIn](https://www.linkedin.com/in/rajesh-kumar-205899148/)
+ <a href="https://www.linkedin.com/in/rajesh-kumar-205899148" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+ <a href="https://twitter.com/its_rajeshroma" target="_blank"><img src="https://img.shields.io/badge/Twitter-1ca0f1.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a> 
 
 <!--
 **rajeshkumarrobert/rajeshkumarrobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
