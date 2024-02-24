@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=rajeshkumarrobertS&color=green)
 
 
-
+<!-- 
 <a href="https://github.com/rajeshkumarrobert">
    <img src="https://github.com/rajeshkumarrobert/rajeshkumarrobert/blob/main/Assets/Selenium.PNG" align="left" width="50%"/>
 </a>
@@ -11,7 +11,6 @@
    <img src="https://github.com/rajeshkumarrobert/rajeshkumarrobert/blob/main/Assets/Rustlogo.gif" align="right" width="50%"/>
 </a>
 
-<!-- 
 ![](https://github.com/rajeshkumarrobert/rajeshkumarrobert/blob/main/Assets/Selenium.PNG)
 ![](https://github.com/rajeshkumarrobert/rajeshkumarrobert/blob/main/Assets/Rustlogo.gif) -->
 
